@@ -56,7 +56,7 @@ int main()
         case 2:
             inputdata();
             cout << "\nHasil pengurangan: " << penjumlahan(bilangan1, bilangan2) << endl;
-            system("pause");
+            system("pause"); 
             break;
         case 3:
             inputdata();
