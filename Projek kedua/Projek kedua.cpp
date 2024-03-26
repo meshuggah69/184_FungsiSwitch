@@ -65,7 +65,7 @@ int main()
             break;
         case 4:
             inputdata();
-            cout << "\nHasil pembagian: " << penjumlahan(bilangan1, bilangan2) << endl;
+            cout << "\nHasil pembagian: " << penjumlahan(bilangan1, bilangan2) << endl; 
             system("pause"); 
             break;
         case 5:
