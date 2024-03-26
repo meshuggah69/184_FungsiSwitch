@@ -61,7 +61,7 @@ int main()
         case 3:
             inputdata();
             cout << "\nHasil perkalian: " << penjumlahan(bilangan1, bilangan2) << endl;
-            system("pause");
+            system("pause"); 
             break;
         case 4:
             inputdata();
